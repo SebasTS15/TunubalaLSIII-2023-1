@@ -18,8 +18,11 @@ header {
 }
 
 .logo img {
-    width: 30px; /* Ajusta el tamaño de la imagen según sea necesario */
-    margin-right: 10px;
+    width: 60px; /* Ajusta el tamaño de la imagen según sea necesario */
+    margin-right: 5px;
+    border-radius: 25%;
+    height: 50px;
+
 }
 
 nav ul {
